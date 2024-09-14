@@ -1,5 +1,5 @@
 This is a uservice project from Turing Research Team.
-<img src="https://github.com/niushaghavamii/UTether/blob/main/turing.png"/>
+<img src="https://github.com/niushaghavamii/utether/blob/main/turing.png"/>
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="https://github.com/niushaghavamii/UTether/blob/main/photo1.jpg" />
+<img src="https://github.com/niushaghavamii/utether/blob/main/photo1.jpg" />
 <br/>
 Best regards.
 <br/>
